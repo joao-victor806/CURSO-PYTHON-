@@ -1,4 +1,4 @@
-# main.py
+
 
 # Objetivo
 # Calcular estatísticas básicas de um conjunto de dados.
